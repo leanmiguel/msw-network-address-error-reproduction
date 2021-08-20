@@ -1,0 +1,12 @@
+
+# Dependency directories
+node_modules/
+build/
+# dotenv environment variables file
+.env
+.env.staging
+.env.local
+.env.production
+
+# macos specific
+.DS_Store
